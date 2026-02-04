@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @youcefnassim
 # 💫 About Me:
-e suis Youcef Nassim, designer UX/UI et développeur frontend avec environ 1 an d’expérience. J’allie mes compétences en design et en code pour créer des expériences digitales modernes, intuitives et animées.<br><br>Mon approche est centrée sur l’utilisateur : je conçois des interfaces aussi esthétiques que fonctionnelles.<br><br>🛠️ Compétences techniques<br><br>Frontend : HTML5, CSS3, JavaScript<br><br>Frameworks / Bibliothèques : React<br><br>Design : Figma, UX/UI
+je suis Youcef Nassim, designer UX/UI et développeur frontend avec environ 1 an d’expérience. J’allie mes compétences en design et en code pour créer des expériences digitales modernes, intuitives et animées.<br><br>Mon approche est centrée sur l’utilisateur : je conçois des interfaces aussi esthétiques que fonctionnelles.<br><br>🛠️ Compétences techniques<br><br>Frontend : HTML5, CSS3, JavaScript<br><br>Frameworks / Bibliothèques : React<br><br>Design : Figma, UX/UI
 
 
 ## 🌐 Socials:
